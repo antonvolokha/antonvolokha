@@ -19,4 +19,4 @@ Inside this project I work with different technologies and frameworks like Symfo
 Before that I worked at Portmone.com on system of electronic delivery of bills and their payment on the Internet using Visa and MasterCard international payment cards.
 
 - 💬 You can ask me anything you want on Telegram - [@antonv23](https://t.me/antonv23);
-- 📝 [Resume](https://my-awesome-cv-de002.web.app/)
+- 📝 [Resume](https://antonvolokha.space/)
