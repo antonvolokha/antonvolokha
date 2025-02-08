@@ -1,22 +1,63 @@
-### Hi there 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=25845aa7-86cf-4250-88d0-89257cb08d10)
+<div id="header" align="center">
+<img src="./assets/github.gif" width="100"/>
+<h1>
+    Hey there, I'm Anton!
+    <img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
+</div>
 
-Hey, I'm Anton, Backend Developer. Falling in love with tech. Сan convert cola to code.
+### About Me :
 
-❤️: JavaScript, PHP, TypeScript, Symfony, ExpressJS, Python
+🚀 Backend Engineer | PHP | Node.js | Symfony | ExpressJS
 
-My LinkedIn - https://www.linkedin.com/in/antonvolokha/
+I’m a Backend Engineer passionate about building scalable solutions and integrating AI-powered features. Currently at BetterMe, I develop new services, optimize performance, and add new AI features.
 
-## 😄 About me
+💬 Let’s connect: [@antonv23](https://t.me/antonv23) | 📝 [Resume](https://antonvolokha.space/)
 
-✌️ My name is Anton, I am Back-End Developer. Geek and a lover of everything related to technology. Have a master degree in computer science.
+### Languages :
 
-Right now I'm working at Apomeds.com. It the telehealth & telemedicine company that is transforming the way patients interact with doctors and pharmacies, challenging inefficient traditional practices, and introducing modern digital methods.
-Our mission is to help patients get the medications and treatments they need quickly, efficiently, and above all — remotely.
-Our team uses state-of-the-art technologies to build platforms that serve hundreds of thousands of customers across Europe, help them improve their wellbeing and live a better lifestyle.
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
 
-Inside this project I work with different technologies and frameworks like Symfony, ExpressJs, TypeScript and a litt.
+        🇺🇦 Ukrainian - Native
 
-Before that I worked at Portmone.com on system of electronic delivery of bills and their payment on the Internet using Visa and MasterCard international payment cards.
+  </tr>
 
-- 💬 You can ask me anything you want on Telegram - [@antonv23](https://t.me/antonv23);
-- 📝 [Resume](https://antonvolokha.space/)
+  <tr>
+
+        🇬🇧 English - Upper-Intermediate
+
+  </tr>
+</table>
+</div>
+
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+  <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonvolokha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" />
+  </td>
+  <td>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonvolokha&layout=compact&theme=buefy&hide_border=true" />
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=antonvolokha&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Anton Volokha GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+<a href="https://u8views.com/github/antonvolokha"><img src="https://u8views.com/api/v1/github/profiles/20132986/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.codewars.com/users/antonvolokha"><img src="https://www.codewars.com/users/antonvolokha/badges/small">
+</div>
+
+<br>
